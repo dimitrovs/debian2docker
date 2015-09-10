@@ -18,3 +18,6 @@ sysvinit
 traceroute
 wget
 xz-utils
+xfce4
+xfce4-goodies
+xdm
